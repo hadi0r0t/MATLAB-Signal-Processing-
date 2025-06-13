@@ -1,5 +1,5 @@
 % AM Modulation Comparison with Different Modulation Indices
-% Author: Your Name
+% Author: Hadi Rafat Talab
 % Description: This script compares AM modulation for different modulation indices.
 % Carrier frequency: 1kHz, Sampling frequency: 48kHz
 
